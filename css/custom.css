@@ -1,0 +1,16 @@
+#header.left_menu .col-md-3{
+    order: 2;
+}
+#header.left_menu .col-md-9{
+    order: 1;
+}
+#header.left_menu .col-md-9 ul{
+    margin-right: auto !important;
+}
+
+#header.center_menu .col-md-3{
+    width: 100%;
+}
+#header.center_menu .col-md-9{
+    margin-right: auto !important;
+}
